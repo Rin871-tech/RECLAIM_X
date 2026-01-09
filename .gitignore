@@ -1,0 +1,13 @@
+# Secrets
+firebase_key.json
+
+# Local data
+data.csv
+users.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
